@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 0c072b17ffece344d918c432ff722edc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4064886326775345963
+    second: Characters-part-2 1_0
+  - first:
+      213: 7817944040916996158
+    second: Characters-part-2 1_1
+  - first:
+      213: 8879650721888164873
+    second: Characters-part-2 1_2
+  - first:
+      213: -7143923404111751849
+    second: Characters-part-2 1_3
+  - first:
+      213: 5000603536055072838
+    second: Characters-part-2 1_4
+  - first:
+      213: 7499070208070934042
+    second: Characters-part-2 1_5
+  - first:
+      213: 9213267061163588983
+    second: Characters-part-2 1_6
+  - first:
+      213: -8048886987926210162
+    second: Characters-part-2 1_7
+  - first:
+      213: 6757476741412161846
+    second: Characters-part-2 1_8
+  - first:
+      213: 3923472949602632787
+    second: Characters-part-2 1_9
+  - first:
+      213: -925071176015819632
+    second: Characters-part-2 1_10
+  - first:
+      213: 3075189704042040978
+    second: Characters-part-2 1_11
+  - first:
+      213: 3979697252978868127
+    second: Characters-part-2 1_12
+  - first:
+      213: 4488832815053899525
+    second: Characters-part-2 1_13
+  - first:
+      213: 2670721400125618786
+    second: Characters-part-2 1_14
+  - first:
+      213: -744228957635950570
+    second: Characters-part-2 1_15
+  - first:
+      213: 4602656772886390837
+    second: Characters-part-2 1_16
+  - first:
+      213: 3465265269687631700
+    second: Characters-part-2 1_17
+  - first:
+      213: -7040328575407291414
+    second: Characters-part-2 1_18
+  - first:
+      213: 4981898652333612069
+    second: Characters-part-2 1_19
+  - first:
+      213: -6190585142588607528
+    second: Characters-part-2 1_20
+  - first:
+      213: -265820700490509251
+    second: Characters-part-2 1_21
+  - first:
+      213: 1724670593213066265
+    second: Characters-part-2 1_22
+  - first:
+      213: -3095605670407055008
+    second: Characters-part-2 1_23
+  - first:
+      213: 5423023464171850258
+    second: Characters-part-2 1_24
+  - first:
+      213: -4652995234882327171
+    second: Characters-part-2 1_25
+  - first:
+      213: -547197150635510630
+    second: Characters-part-2 1_26
+  - first:
+      213: -1988226588469041579
+    second: Characters-part-2 1_27
+  - first:
+      213: -4170395919915549998
+    second: Characters-part-2 1_28
+  - first:
+      213: -628936599121647988
+    second: Characters-part-2 1_29
+  - first:
+      213: 6312663666315014802
+    second: Characters-part-2 1_30
+  - first:
+      213: -297821443690370072
+    second: Characters-part-2 1_31
+  - first:
+      213: 2425808795610231805
+    second: Characters-part-2 1_32
+  - first:
+      213: 571913729183639483
+    second: Characters-part-2 1_33
+  - first:
+      213: 8129833402109850851
+    second: Characters-part-2 1_34
+  - first:
+      213: -6691024263078349603
+    second: Characters-part-2 1_35
+  - first:
+      213: -3268754065632372827
+    second: Characters-part-2 1_36
+  - first:
+      213: -3386852597924147456
+    second: Characters-part-2 1_37
+  - first:
+      213: 8026761340047694568
+    second: Characters-part-2 1_38
+  - first:
+      213: -3295203428039126645
+    second: Characters-part-2 1_39
+  - first:
+      213: 7073448829244202561
+    second: Characters-part-2 1_40
+  - first:
+      213: -2449489724721137621
+    second: Characters-part-2 1_41
+  - first:
+      213: -2457854641858254694
+    second: Characters-part-2 1_42
+  - first:
+      213: 7643266497882408705
+    second: Characters-part-2 1_43
+  - first:
+      213: -5604645804507106030
+    second: Characters-part-2 1_44
+  - first:
+      213: 5245593519069990972
+    second: Characters-part-2 1_45
+  - first:
+      213: -8812329355437080100
+    second: Characters-part-2 1_46
+  - first:
+      213: -9173600216039411069
+    second: Characters-part-2 1_47
+  - first:
+      213: 4256660046367864452
+    second: Characters-part-2 1_48
+  - first:
+      213: 162694636587191261
+    second: Characters-part-2 1_49
+  - first:
+      213: 7496284587311587109
+    second: Characters-part-2 1_50
+  - first:
+      213: -3403373017011012552
+    second: Characters-part-2 1_51
+  - first:
+      213: 227815343039179943
+    second: Characters-part-2 1_52
+  - first:
+      213: 773352787292439878
+    second: Characters-part-2 1_53
+  - first:
+      213: -1631506344757729657
+    second: Characters-part-2 1_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Characters-part-2 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc86382c6f9697c0800000000000000
+      internalID: -4064886326775345963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e305db81faaee7c60800000000000000
+      internalID: 7817944040916996158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 253
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5faff84bda3b70800000000000000
+      internalID: 8879650721888164873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 253
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d15b938fabdc90800000000000000
+      internalID: -7143923404111751849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 250
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ff15fb66b56540800000000000000
+      internalID: 5000603536055072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 250
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e58c95f9c021860800000000000000
+      internalID: 7499070208070934042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 250
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d767104991cdf70800000000000000
+      internalID: 9213267061163588983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 250
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f467edeb9c4090800000000000000
+      internalID: -8048886987926210162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 250
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63906dd2b4167cd50800000000000000
+      internalID: 6757476741412161846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 205
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544be63cd9f27630800000000000000
+      internalID: 3923472949602632787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 205
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ccf99aaac7923f0800000000000000
+      internalID: -925071176015819632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 205
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4d562eb44daa20800000000000000
+      internalID: 3075189704042040978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 205
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3765f099ba3730800000000000000
+      internalID: 3979697252978868127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 202
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507876599a98b4e30800000000000000
+      internalID: 4488832815053899525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a758c96fe401520800000000000000
+      internalID: 2670721400125618786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 202
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618cc84c4b7fba5f0800000000000000
+      internalID: -744228957635950570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 202
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53860f2f2fbefdf30800000000000000
+      internalID: 4602656772886390837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 202
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fba3c2768171030800000000000000
+      internalID: 3465265269687631700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae301d0467abb4e90800000000000000
+      internalID: -7040328575407291414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 157
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9757dd62432540800000000000000
+      internalID: 4981898652333612069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 157
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f138ac9f961aa0800000000000000
+      internalID: -6190585142588607528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3451553b7d9f4cf0800000000000000
+      internalID: -265820700490509251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 154
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce60f44c24fe710800000000000000
+      internalID: 1724670593213066265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 154
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d3b24b033a05d0800000000000000
+      internalID: -3095605670407055008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 154
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4296bb13724b40800000000000000
+      internalID: 5423023464171850258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de04b8c7d3d6fb0800000000000000
+      internalID: -4652995234882327171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b3463717f768f0800000000000000
+      internalID: -547197150635510630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e05da3766864e0800000000000000
+      internalID: -1988226588469041579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf1bca107cf16c0800000000000000
+      internalID: -4170395919915549998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 114
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ac1fce719547f0800000000000000
+      internalID: -628936599121647988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 116
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292b83998261b9750800000000000000
+      internalID: 6312663666315014802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 116
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb675299fceddbf0800000000000000
+      internalID: -297821443690370072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 105
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3bd534f343aa120800000000000000
+      internalID: 2425808795610231805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 105
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e82ea188dfe700800000000000000
+      internalID: 571913729183639483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4fcdfc768f2d070800000000000000
+      internalID: 8129833402109850851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 105
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f1bf12e4b423a0800000000000000
+      internalID: -6691024263078349603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 105
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75ed3fe7d03a2d0800000000000000
+      internalID: -3268754065632372827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 57
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4f1aa18b7ff0d0800000000000000
+      internalID: -3386852597924147456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 57
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea916249e8c46f60800000000000000
+      internalID: 8026761340047694568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811411e0f51542d0800000000000000
+      internalID: -3295203428039126645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 68
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed004cb30f92260800000000000000
+      internalID: 7073448829244202561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 68
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f605c21aa10ed0800000000000000
+      internalID: -2449489724721137621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a986e7ab932f3edd0800000000000000
+      internalID: -2457854641858254694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 57
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107cce15266521a60800000000000000
+      internalID: 7643266497882408705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157872e55c4832b0800000000000000
+      internalID: -5604645804507106030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 16
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30124463871cc840800000000000000
+      internalID: 5245593519069990972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd10d65142154b580800000000000000
+      internalID: -8812329355437080100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38236831533d0b080800000000000000
+      internalID: -9173600216039411069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 20
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ba5962c1b21b30800000000000000
+      internalID: 4256660046367864452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 20
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb04a4f8e1024200800000000000000
+      internalID: 162694636587191261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f51f97d17280860800000000000000
+      internalID: 7496284587311587109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cb8ead54ac4c0d0800000000000000
+      internalID: -3403373017011012552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aceb34f8dc592300800000000000000
+      internalID: 227815343039179943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645cf9c33408bba00800000000000000
+      internalID: 773352787292439878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters-part-2 1_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866bef9f99bb59e0800000000000000
+      internalID: -1631506344757729657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
